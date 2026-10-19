@@ -1089,7 +1089,7 @@ with t3:
                     1000
                 ),
                 use_container_width=True,
-                key="compare_b"
+                key="comparison_chart_right"
             )
 
         st.caption(
